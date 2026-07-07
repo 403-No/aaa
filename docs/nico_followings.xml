@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Tue, 07 Jul 2026 12:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:24:01 GMT</lastBuildDate>
+    <item>
+      <title>【プレイ動画】夜渡マネギ戦闘記録 Part.115【ナイトレイン】</title>
+      <link>https://www.nicovideo.jp/watch/sm46524085</link>
+      <guid isPermaLink="false">sm46524085</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46524085/46524085.96694284.original/r640x360l?key=98b7f6611082ce98fab7df7608ca48a5330331ed2210feb2fdc0e72bc80bca43"/><br/>投稿者: スティーブ峰蔵<br/>再生時間: 50:07</description>
+      <author>スティーブ峰蔵</author>
+      <pubDate>Tue, 07 Jul 2026 21:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>【SAND: Raiders of Sophie】ブラックボックスを回収しろ【ゆっくり実況プレイ】</title>
       <link>https://www.nicovideo.jp/watch/sm46523639</link>
@@ -198,12 +206,12 @@
       <pubDate>Sat, 04 Jul 2026 09:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【プレイ動画】夜渡マネギ戦闘記録 Part.114【ナイトレイン】</title>
-      <link>https://www.nicovideo.jp/watch/sm46506386</link>
-      <guid isPermaLink="false">sm46506386</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46506386/46506386.98003572.original/r640x360l?key=4287d6fc2c04b17e05ddfeba16c06a4d630f596c22d7b7859a70a50dd7898160"/><br/>投稿者: スティーブ峰蔵<br/>再生時間: 38:36</description>
+      <title>【プレイ動画】夜渡マネギ戦闘記録 Part.115【ナイトレイン】</title>
+      <link>https://www.nicovideo.jp/watch/sm46524085</link>
+      <guid isPermaLink="false">sm46524085</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46524085/46524085.96694284.original/r640x360l?key=98b7f6611082ce98fab7df7608ca48a5330331ed2210feb2fdc0e72bc80bca43"/><br/>投稿者: スティーブ峰蔵<br/>再生時間: 50:07</description>
       <author>スティーブ峰蔵</author>
-      <pubDate>Fri, 03 Jul 2026 20:00:00 +0900</pubDate>
+      <pubDate>Tue, 07 Jul 2026 21:00:00 +0900</pubDate>
     </item>
     <item>
       <title>【SAND: Raiders of Sophie】ブラックボックスを回収しろ【ゆっくり実況プレイ】</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46508210/46508210.57574660.original/r640x360l?key=9a407f9c973e88a6ae4eccc1bbf50fe2d6ad63ffd5867c4a8eacd76475862476"/><br/>投稿者: 歩く♪<br/>再生時間: 4:10</description>
       <author>歩く♪</author>
       <pubDate>Sat, 04 Jul 2026 09:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【プレイ動画】夜渡マネギ戦闘記録 Part.114【ナイトレイン】</title>
-      <link>https://www.nicovideo.jp/watch/sm46506386</link>
-      <guid isPermaLink="false">sm46506386</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46506386/46506386.98003572.original/r640x360l?key=4287d6fc2c04b17e05ddfeba16c06a4d630f596c22d7b7859a70a50dd7898160"/><br/>投稿者: スティーブ峰蔵<br/>再生時間: 38:36</description>
-      <author>スティーブ峰蔵</author>
-      <pubDate>Fri, 03 Jul 2026 20:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
