@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Sat, 25 Jul 2026 06:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:28:28 GMT</lastBuildDate>
+    <item>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part86【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46588160</link>
+      <guid isPermaLink="false">sm46588160</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46588160/46588160.1573296.original/r640x360l?key=39bcd88da5fa380abbcc77901442277f2f3fcf9e6e15122ea9b58e158e99d3d6"/><br/>投稿者: リターン<br/>再生時間: 13:14</description>
+      <author>リターン</author>
+      <pubDate>Sat, 25 Jul 2026 15:40:25 +0900</pubDate>
+    </item>
     <item>
       <title>[Terraria]　ジャーニーで全アイテム研究の旅　２４　[ゆっくり実況]</title>
       <link>https://www.nicovideo.jp/watch/sm46585706</link>
@@ -198,12 +206,12 @@
       <pubDate>Tue, 21 Jul 2026 19:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>【GTA5 検証】Dをバスで足止めしたりラマーの家に連れて行ったりしてみた（チョップ）</title>
-      <link>https://www.nicovideo.jp/watch/sm46571829</link>
-      <guid isPermaLink="false">sm46571829</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46571829/46571829.67089846.original/r640x360l?key=5e2e8fa40b94dcad36846d57565b257c35200cd75d65076c1d85b07c3b1482de"/><br/>投稿者: ManA<br/>再生時間: 12:26</description>
-      <author>ManA</author>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 +0900</pubDate>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part86【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46588160</link>
+      <guid isPermaLink="false">sm46588160</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46588160/46588160.1573296.original/r640x360l?key=39bcd88da5fa380abbcc77901442277f2f3fcf9e6e15122ea9b58e158e99d3d6"/><br/>投稿者: リターン<br/>再生時間: 13:14</description>
+      <author>リターン</author>
+      <pubDate>Sat, 25 Jul 2026 15:40:25 +0900</pubDate>
     </item>
     <item>
       <title>[Terraria]　ジャーニーで全アイテム研究の旅　２４　[ゆっくり実況]</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46574854/46574854.76883655.original/r640x360l?key=967d5f6432d126d5e5283d1bfd7aeba2fcfd6c40055fc393fabbc44582df862c"/><br/>投稿者: しまねげーむず<br/>再生時間: 36:04</description>
       <author>しまねげーむず</author>
       <pubDate>Tue, 21 Jul 2026 19:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【GTA5 検証】Dをバスで足止めしたりラマーの家に連れて行ったりしてみた（チョップ）</title>
-      <link>https://www.nicovideo.jp/watch/sm46571829</link>
-      <guid isPermaLink="false">sm46571829</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46571829/46571829.67089846.original/r640x360l?key=5e2e8fa40b94dcad36846d57565b257c35200cd75d65076c1d85b07c3b1482de"/><br/>投稿者: ManA<br/>再生時間: 12:26</description>
-      <author>ManA</author>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
