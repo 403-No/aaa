@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Fri, 07 Aug 2026 10:48:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:41:07 GMT</lastBuildDate>
+    <item>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part88【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46637682</link>
+      <guid isPermaLink="false">sm46637682</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46637682/46637682.94883158.original/r640x360l?key=0674b79c867c43b232a9632b4a74c54dae1ff27dfcf0f085868d3a6805de64a1"/><br/>投稿者: リターン<br/>再生時間: 16:44</description>
+      <author>リターン</author>
+      <pubDate>Fri, 07 Aug 2026 19:58:38 +0900</pubDate>
+    </item>
     <item>
       <title>【ゆっくり紹介】SCP-7340【Iは切開のI】</title>
       <link>https://www.nicovideo.jp/watch/sm46637262</link>
@@ -198,12 +206,12 @@
       <pubDate>Mon, 03 Aug 2026 19:00:19 +0900</pubDate>
     </item>
     <item>
-      <title>【ゆっくり紹介】SCP-2632【怒りは無い】</title>
-      <link>https://www.nicovideo.jp/watch/sm46622644</link>
-      <guid isPermaLink="false">sm46622644</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46622644/46622644.93459467.original/r640x360l?key=eb927249a916a7ad5091d2d0c1904acff45489c42c17ca36f0a107e9b8bc58dc"/><br/>投稿者: ななしぃ<br/>再生時間: 16:20</description>
-      <author>ななしぃ</author>
-      <pubDate>Mon, 03 Aug 2026 18:00:00 +0900</pubDate>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part88【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46637682</link>
+      <guid isPermaLink="false">sm46637682</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46637682/46637682.94883158.original/r640x360l?key=0674b79c867c43b232a9632b4a74c54dae1ff27dfcf0f085868d3a6805de64a1"/><br/>投稿者: リターン<br/>再生時間: 16:44</description>
+      <author>リターン</author>
+      <pubDate>Fri, 07 Aug 2026 19:58:38 +0900</pubDate>
     </item>
     <item>
       <title>【ゆっくり紹介】SCP-7340【Iは切開のI】</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46622920/46622920.83698865.original/r640x360l?key=c7326ad05f43a41f65f8e3e1bc6e25145d3a7d67615b786e865512338345c2f7"/><br/>投稿者: リターン<br/>再生時間: 10:21</description>
       <author>リターン</author>
       <pubDate>Mon, 03 Aug 2026 19:00:19 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ゆっくり紹介】SCP-2632【怒りは無い】</title>
-      <link>https://www.nicovideo.jp/watch/sm46622644</link>
-      <guid isPermaLink="false">sm46622644</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46622644/46622644.93459467.original/r640x360l?key=eb927249a916a7ad5091d2d0c1904acff45489c42c17ca36f0a107e9b8bc58dc"/><br/>投稿者: ななしぃ<br/>再生時間: 16:20</description>
-      <author>ななしぃ</author>
-      <pubDate>Mon, 03 Aug 2026 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
