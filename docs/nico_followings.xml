@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Tue, 11 Aug 2026 13:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:52:55 GMT</lastBuildDate>
+    <item>
+      <title>【ダンジョンクロウラー】粉砕 part6【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46654821</link>
+      <guid isPermaLink="false">sm46654821</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46654821/46654821.55221652.original/r640x360l?key=98915fbcb2540320635da479a379aae121596bccf942787705143bfcf3a6652d"/><br/>投稿者: リターン<br/>再生時間: 12:16</description>
+      <author>リターン</author>
+      <pubDate>Tue, 11 Aug 2026 23:16:35 +0900</pubDate>
+    </item>
     <item>
       <title>【プレイ動画】夜渡マネギ戦闘記録 Part.125【ナイトレイン】</title>
       <link>https://www.nicovideo.jp/watch/sm46654466</link>
@@ -190,12 +198,12 @@
       <pubDate>Sat, 08 Aug 2026 18:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>【RELIC GUARDIAN】ピヨコ達を救うきりたん Part.04 【VOICEROID実況】</title>
-      <link>https://www.nicovideo.jp/watch/sm46639989</link>
-      <guid isPermaLink="false">sm46639989</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46639989/46639989.50541964.original/r640x360l?key=14f307829ebe892ecf1e5510bc0e6ba840845b3b4d1093a279f4e2684a614e88"/><br/>投稿者: たぬぬ<br/>再生時間: 16:02</description>
-      <author>たぬぬ</author>
-      <pubDate>Sat, 08 Aug 2026 18:00:00 +0900</pubDate>
+      <title>【ダンジョンクロウラー】粉砕 part6【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46654821</link>
+      <guid isPermaLink="false">sm46654821</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46654821/46654821.55221652.original/r640x360l?key=98915fbcb2540320635da479a379aae121596bccf942787705143bfcf3a6652d"/><br/>投稿者: リターン<br/>再生時間: 12:16</description>
+      <author>リターン</author>
+      <pubDate>Tue, 11 Aug 2026 23:16:35 +0900</pubDate>
     </item>
     <item>
       <title>【プレイ動画】夜渡マネギ戦闘記録 Part.125【ナイトレイン】</title>
@@ -380,14 +388,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46641323/46641323.24690016.original/r640x360l?key=3f0a6858be2df23e9d92fb0faa566d48844d603536a1e9a43c732bbe0d56c484"/><br/>投稿者: ぴにき<br/>再生時間: 10:48</description>
       <author>ぴにき</author>
       <pubDate>Sat, 08 Aug 2026 18:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【RELIC GUARDIAN】ピヨコ達を救うきりたん Part.04 【VOICEROID実況】</title>
-      <link>https://www.nicovideo.jp/watch/sm46639989</link>
-      <guid isPermaLink="false">sm46639989</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46639989/46639989.50541964.original/r640x360l?key=14f307829ebe892ecf1e5510bc0e6ba840845b3b4d1093a279f4e2684a614e88"/><br/>投稿者: たぬぬ<br/>再生時間: 16:02</description>
-      <author>たぬぬ</author>
-      <pubDate>Sat, 08 Aug 2026 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
