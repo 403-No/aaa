@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Fri, 14 Aug 2026 06:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:10:08 GMT</lastBuildDate>
+    <item>
+      <title>【遊戯王解説】聖王女ローズパメラ</title>
+      <link>https://www.nicovideo.jp/watch/sm46667245</link>
+      <guid isPermaLink="false">sm46667245</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46667245/46667245.17468259.original/r640x360l?key=1ab9d7ed15002bc286461706b691b3b1ab78a568bb89a25731b9dd91c64ce7dc"/><br/>投稿者: ぴにき<br/>再生時間: 14:12</description>
+      <author>ぴにき</author>
+      <pubDate>Fri, 14 Aug 2026 17:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>【HumanitZ】壊れかけの車は遅い、車を修理しろ！ part17【ゆっくり実況プレイ】</title>
       <link>https://www.nicovideo.jp/watch/sm46666672</link>
@@ -190,12 +198,12 @@
       <pubDate>Mon, 10 Aug 2026 18:16:29 +0900</pubDate>
     </item>
     <item>
-      <title>【遊戯王解説】氷結界の龍胤 エクハジャール</title>
-      <link>https://www.nicovideo.jp/watch/sm46650318</link>
-      <guid isPermaLink="false">sm46650318</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46650318/46650318.68657356.original/r640x360l?key=f691a2aa226077928159ca3f3f69cb7fc9fc17d2eeb7e17399a9566019102637"/><br/>投稿者: ぴにき<br/>再生時間: 8:08</description>
+      <title>【遊戯王解説】聖王女ローズパメラ</title>
+      <link>https://www.nicovideo.jp/watch/sm46667245</link>
+      <guid isPermaLink="false">sm46667245</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46667245/46667245.17468259.original/r640x360l?key=1ab9d7ed15002bc286461706b691b3b1ab78a568bb89a25731b9dd91c64ce7dc"/><br/>投稿者: ぴにき<br/>再生時間: 14:12</description>
       <author>ぴにき</author>
-      <pubDate>Mon, 10 Aug 2026 18:01:00 +0900</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>【HumanitZ】壊れかけの車は遅い、車を修理しろ！ part17【ゆっくり実況プレイ】</title>
@@ -380,14 +388,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46649747/46649747.20763294.original/r640x360l?key=afe0468da1fed98ce7feeed1b37fbcc418e924994303ac6beb5b5d8da0f44143"/><br/>投稿者: リターン<br/>再生時間: 16:06</description>
       <author>リターン</author>
       <pubDate>Mon, 10 Aug 2026 18:16:29 +0900</pubDate>
-    </item>
-    <item>
-      <title>【遊戯王解説】氷結界の龍胤 エクハジャール</title>
-      <link>https://www.nicovideo.jp/watch/sm46650318</link>
-      <guid isPermaLink="false">sm46650318</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46650318/46650318.68657356.original/r640x360l?key=f691a2aa226077928159ca3f3f69cb7fc9fc17d2eeb7e17399a9566019102637"/><br/>投稿者: ぴにき<br/>再生時間: 8:08</description>
-      <author>ぴにき</author>
-      <pubDate>Mon, 10 Aug 2026 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
