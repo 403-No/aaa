@@ -4,7 +4,23 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Sat, 15 Aug 2026 10:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:14:26 GMT</lastBuildDate>
+    <item>
+      <title>【FGO】Fate/ぐだぐだサーヴァントオーダーその２３１「大黒天」</title>
+      <link>https://www.nicovideo.jp/watch/sm46672311</link>
+      <guid isPermaLink="false">sm46672311</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46672311/46672311.50580635.original/r640x360l?key=6f5ff103c5c3f5074e0ff78c8e8855d3a9375b3785b3638c9e57ddeb0528cf28"/><br/>投稿者: コハッキーオルタ<br/>再生時間: 10:00</description>
+      <author>コハッキーオルタ</author>
+      <pubDate>Sat, 15 Aug 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【HumanitZ】ハドソンシティ part18【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46672970</link>
+      <guid isPermaLink="false">sm46672970</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46672970/46672970.84623768.original/r640x360l?key=3333c790ff057bf5705f7d3473738094820d785e6374b208916e057a20029988"/><br/>投稿者: リターン<br/>再生時間: 10:38</description>
+      <author>リターン</author>
+      <pubDate>Sat, 15 Aug 2026 19:41:04 +0900</pubDate>
+    </item>
     <item>
       <title>【SCP紹介】相談役【依談】</title>
       <link>https://www.nicovideo.jp/watch/sm46672494</link>
@@ -190,12 +206,20 @@
       <pubDate>Thu, 13 Aug 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【HumanitZ】強いモブ part15【ゆっくり実況プレイ】</title>
-      <link>https://www.nicovideo.jp/watch/sm46659544</link>
-      <guid isPermaLink="false">sm46659544</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46659544/46659544.12736351.original/r640x360l?key=def6dd4bed1c123df6bba92d92532a83528d411694043add652ff3a1a4f576b2"/><br/>投稿者: リターン<br/>再生時間: 12:49</description>
+      <title>【FGO】Fate/ぐだぐだサーヴァントオーダーその２３１「大黒天」</title>
+      <link>https://www.nicovideo.jp/watch/sm46672311</link>
+      <guid isPermaLink="false">sm46672311</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46672311/46672311.50580635.original/r640x360l?key=6f5ff103c5c3f5074e0ff78c8e8855d3a9375b3785b3638c9e57ddeb0528cf28"/><br/>投稿者: コハッキーオルタ<br/>再生時間: 10:00</description>
+      <author>コハッキーオルタ</author>
+      <pubDate>Sat, 15 Aug 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【HumanitZ】ハドソンシティ part18【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46672970</link>
+      <guid isPermaLink="false">sm46672970</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46672970/46672970.84623768.original/r640x360l?key=3333c790ff057bf5705f7d3473738094820d785e6374b208916e057a20029988"/><br/>投稿者: リターン<br/>再生時間: 10:38</description>
       <author>リターン</author>
-      <pubDate>Wed, 12 Aug 2026 23:23:03 +0900</pubDate>
+      <pubDate>Sat, 15 Aug 2026 19:41:04 +0900</pubDate>
     </item>
     <item>
       <title>【SCP紹介】相談役【依談】</title>
@@ -380,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46660442/46660442.96274227.original/r640x360l?key=8b7ebd03e120d28134d0c3d5ef3b90d91ee87245e4efa29a86fcf43bb56546d6"/><br/>投稿者: けしごむ<br/>再生時間: 18:25</description>
       <author>けしごむ</author>
       <pubDate>Thu, 13 Aug 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【HumanitZ】強いモブ part15【ゆっくり実況プレイ】</title>
-      <link>https://www.nicovideo.jp/watch/sm46659544</link>
-      <guid isPermaLink="false">sm46659544</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46659544/46659544.12736351.original/r640x360l?key=def6dd4bed1c123df6bba92d92532a83528d411694043add652ff3a1a4f576b2"/><br/>投稿者: リターン<br/>再生時間: 12:49</description>
-      <author>リターン</author>
-      <pubDate>Wed, 12 Aug 2026 23:23:03 +0900</pubDate>
     </item>
   </channel>
 </rss>
