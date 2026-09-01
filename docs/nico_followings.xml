@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Tue, 01 Sep 2026 05:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:17:38 GMT</lastBuildDate>
+    <item>
+      <title>絶対に再生してはいけない『失踪した配信者の動画』を観るホラーゲーム【 たろうくんはいってきました 】_#2『VOICEROID実況/重音テト・宮舞モカ』</title>
+      <link>https://www.nicovideo.jp/watch/sm46745276</link>
+      <guid isPermaLink="false">sm46745276</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46745276/46745276.20613714.original/r640x360l?key=ee9cfe95c4824ce8353d637a6099112ca3d5d7e38dee36845ddf1d83c8e03089"/><br/>投稿者: しまねげーむず<br/>再生時間: 31:23</description>
+      <author>しまねげーむず</author>
+      <pubDate>Tue, 01 Sep 2026 18:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part95【Minecraft】</title>
       <link>https://www.nicovideo.jp/watch/sm46746167</link>
@@ -190,12 +198,12 @@
       <pubDate>Sat, 29 Aug 2026 09:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「クロックムッシュ」</title>
-      <link>https://www.nicovideo.jp/watch/sm46732590</link>
-      <guid isPermaLink="false">sm46732590</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46732590/46732590.75744988.original/r640x360l?key=dcae82bc319f463d1f24c1ee8453b56b2b0df03e9e7a25812844a79388754594"/><br/>投稿者: ゲスト<br/>再生時間: 2:21</description>
-      <author>ゲスト</author>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0900</pubDate>
+      <title>絶対に再生してはいけない『失踪した配信者の動画』を観るホラーゲーム【 たろうくんはいってきました 】_#2『VOICEROID実況/重音テト・宮舞モカ』</title>
+      <link>https://www.nicovideo.jp/watch/sm46745276</link>
+      <guid isPermaLink="false">sm46745276</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46745276/46745276.20613714.original/r640x360l?key=ee9cfe95c4824ce8353d637a6099112ca3d5d7e38dee36845ddf1d83c8e03089"/><br/>投稿者: しまねげーむず<br/>再生時間: 31:23</description>
+      <author>しまねげーむず</author>
+      <pubDate>Tue, 01 Sep 2026 18:00:00 +0900</pubDate>
     </item>
     <item>
       <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part95【Minecraft】</title>
@@ -380,14 +388,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46732802/46732802.14245324.original/r640x360l?key=ae55ca7dd5d74d2e04ebe9bdc31b69ae3e1b6dbd0731bfb230b889506bc19f5a"/><br/>投稿者: 歩く♪<br/>再生時間: 4:03</description>
       <author>歩く♪</author>
       <pubDate>Sat, 29 Aug 2026 09:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「クロックムッシュ」</title>
-      <link>https://www.nicovideo.jp/watch/sm46732590</link>
-      <guid isPermaLink="false">sm46732590</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46732590/46732590.75744988.original/r640x360l?key=dcae82bc319f463d1f24c1ee8453b56b2b0df03e9e7a25812844a79388754594"/><br/>投稿者: ゲスト<br/>再生時間: 2:21</description>
-      <author>ゲスト</author>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
