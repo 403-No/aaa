@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Thu, 03 Sep 2026 00:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:52:09 GMT</lastBuildDate>
+    <item>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part98【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46755264</link>
+      <guid isPermaLink="false">sm46755264</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46755264/46755264.5551935.original/r640x360l?key=9cb715ea02320111ebd780b1476e26f80cb7cf0dd85af8c658149d348c174953"/><br/>投稿者: リターン<br/>再生時間: 13:13</description>
+      <author>リターン</author>
+      <pubDate>Thu, 03 Sep 2026 11:39:06 +0900</pubDate>
+    </item>
     <item>
       <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part97【Minecraft】</title>
       <link>https://www.nicovideo.jp/watch/sm46753782</link>
@@ -198,12 +206,12 @@
       <pubDate>Sun, 30 Aug 2026 06:25:41 +0900</pubDate>
     </item>
     <item>
-      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part93【Minecraft】</title>
-      <link>https://www.nicovideo.jp/watch/sm46736957</link>
-      <guid isPermaLink="false">sm46736957</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46736957/46736957.49308553.original/r640x360l?key=e01b0e85e763a17c7963142ae36acee184c3ad31d58107e9daa05b27a1fda44e"/><br/>投稿者: リターン<br/>再生時間: 13:39</description>
+      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part98【Minecraft】</title>
+      <link>https://www.nicovideo.jp/watch/sm46755264</link>
+      <guid isPermaLink="false">sm46755264</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46755264/46755264.5551935.original/r640x360l?key=9cb715ea02320111ebd780b1476e26f80cb7cf0dd85af8c658149d348c174953"/><br/>投稿者: リターン<br/>再生時間: 13:13</description>
       <author>リターン</author>
-      <pubDate>Sat, 29 Aug 2026 21:06:37 +0900</pubDate>
+      <pubDate>Thu, 03 Sep 2026 11:39:06 +0900</pubDate>
     </item>
     <item>
       <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part97【Minecraft】</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46738771/46738771.39502012.original/r640x360l?key=111d2784006f9e2c6b96811f31e21fe36af9f6b64cb94fe337ea2cceefd0cf3c"/><br/>投稿者: say2<br/>再生時間: 18:39</description>
       <author>say2</author>
       <pubDate>Sun, 30 Aug 2026 06:25:41 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ゆっくり実況プレイ】真・第二次絶望スカイブロック part93【Minecraft】</title>
-      <link>https://www.nicovideo.jp/watch/sm46736957</link>
-      <guid isPermaLink="false">sm46736957</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46736957/46736957.49308553.original/r640x360l?key=e01b0e85e763a17c7963142ae36acee184c3ad31d58107e9daa05b27a1fda44e"/><br/>投稿者: リターン<br/>再生時間: 13:39</description>
-      <author>リターン</author>
-      <pubDate>Sat, 29 Aug 2026 21:06:37 +0900</pubDate>
     </item>
   </channel>
 </rss>
