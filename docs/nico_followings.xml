@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:46:24 GMT</lastBuildDate>
+    <item>
+      <title>【ファイアーエムブレム 万紫千紅】大剣闘祭予選三戦目 part17【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46934592</link>
+      <guid isPermaLink="false">sm46934592</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46934592/46934592.8045470.original/r640x360l?key=730947fe49eaec9729fc9ab3a5617ca5a9a7928f229d50a95b501b103f411398"/><br/>投稿者: リターン<br/>再生時間: 53:19</description>
+      <author>リターン</author>
+      <pubDate>Sat, 17 Oct 2026 13:00:10 +0900</pubDate>
+    </item>
     <item>
       <title>[Terraria]　ジャーニーで全アイテム研究の旅　３６　[ゆっくり実況]</title>
       <link>https://www.nicovideo.jp/watch/sm46932398</link>
@@ -198,12 +206,12 @@
       <pubDate>Tue, 13 Oct 2026 19:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【ファイアーエムブレム 万紫千紅】アレキサンドラ part14【ゆっくり実況プレイ】</title>
-      <link>https://www.nicovideo.jp/watch/sm46917936</link>
-      <guid isPermaLink="false">sm46917936</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46917936/46917936.6143278.original/r640x360l?key=2b00c275432a0916abd5c902e80fb23b03a7855416d52100ca75c1c4c4956a09"/><br/>投稿者: リターン<br/>再生時間: 34:56</description>
+      <title>【ファイアーエムブレム 万紫千紅】大剣闘祭予選三戦目 part17【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46934592</link>
+      <guid isPermaLink="false">sm46934592</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46934592/46934592.8045470.original/r640x360l?key=730947fe49eaec9729fc9ab3a5617ca5a9a7928f229d50a95b501b103f411398"/><br/>投稿者: リターン<br/>再生時間: 53:19</description>
       <author>リターン</author>
-      <pubDate>Mon, 12 Oct 2026 21:00:34 +0900</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:00:10 +0900</pubDate>
     </item>
     <item>
       <title>[Terraria]　ジャーニーで全アイテム研究の旅　３６　[ゆっくり実況]</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46921479/46921479.70110970.original/r640x360l?key=13ee4728240aedb4c8239f089673a4320167fe689d15dffee5d917ffc2ee3019"/><br/>投稿者: しまねげーむず<br/>再生時間: 40:26</description>
       <author>しまねげーむず</author>
       <pubDate>Tue, 13 Oct 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ファイアーエムブレム 万紫千紅】アレキサンドラ part14【ゆっくり実況プレイ】</title>
-      <link>https://www.nicovideo.jp/watch/sm46917936</link>
-      <guid isPermaLink="false">sm46917936</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46917936/46917936.6143278.original/r640x360l?key=2b00c275432a0916abd5c902e80fb23b03a7855416d52100ca75c1c4c4956a09"/><br/>投稿者: リターン<br/>再生時間: 34:56</description>
-      <author>リターン</author>
-      <pubDate>Mon, 12 Oct 2026 21:00:34 +0900</pubDate>
     </item>
   </channel>
 </rss>
