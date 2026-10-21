@@ -4,7 +4,15 @@
     <title>ニコニコ動画 - フォロー中の新着動画</title>
     <link>https://www.nicovideo.jp/my/follow</link>
     <description>フォロー中ユーザーの新着動画タイムライン</description>
-    <lastBuildDate>Wed, 21 Oct 2026 01:48:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:54:12 GMT</lastBuildDate>
+    <item>
+      <title>【Permafrost】凍結した世界で part5【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46950095</link>
+      <guid isPermaLink="false">sm46950095</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46950095/46950095.29866194.original/r640x360l?key=e10640ce3960fa31d0040a00fc178801db9e1cf43d3e6ada1025de0ba91e4f86"/><br/>投稿者: リターン<br/>再生時間: 13:21</description>
+      <author>リターン</author>
+      <pubDate>Wed, 21 Oct 2026 15:25:32 +0900</pubDate>
+    </item>
     <item>
       <title>【ゆっくりモンハン】モンスターハンターストーリーズ　ほぼ初見プレイ　part38　【MHST】</title>
       <link>https://www.nicovideo.jp/watch/sm46949237</link>
@@ -198,12 +206,12 @@
       <pubDate>Fri, 16 Oct 2026 21:24:28 +0900</pubDate>
     </item>
     <item>
-      <title>【ゆっくり紹介】SCP-3369-JP【あの部屋って誰も住んでないはずだよね……】</title>
-      <link>https://www.nicovideo.jp/watch/sm46931523</link>
-      <guid isPermaLink="false">sm46931523</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46931523/46931523.43922379.original/r640x360l?key=2b203c40008287d652d2629271d3d611409748cf0c61818e4ff592e4411cd802"/><br/>投稿者: ななしぃ<br/>再生時間: 5:48</description>
-      <author>ななしぃ</author>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0900</pubDate>
+      <title>【Permafrost】凍結した世界で part5【ゆっくり実況プレイ】</title>
+      <link>https://www.nicovideo.jp/watch/sm46950095</link>
+      <guid isPermaLink="false">sm46950095</guid>
+      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46950095/46950095.29866194.original/r640x360l?key=e10640ce3960fa31d0040a00fc178801db9e1cf43d3e6ada1025de0ba91e4f86"/><br/>投稿者: リターン<br/>再生時間: 13:21</description>
+      <author>リターン</author>
+      <pubDate>Wed, 21 Oct 2026 15:25:32 +0900</pubDate>
     </item>
     <item>
       <title>【ゆっくりモンハン】モンスターハンターストーリーズ　ほぼ初見プレイ　part38　【MHST】</title>
@@ -396,14 +404,6 @@
       <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46932532/46932532.16236248.original/r640x360l?key=5ad6f884ccd8aefc69d6e9625d7e01d0d0f0fb6848af8e96b84cb065315ca3b3"/><br/>投稿者: いわび<br/>再生時間: 0:57</description>
       <author>いわび</author>
       <pubDate>Fri, 16 Oct 2026 21:24:28 +0900</pubDate>
-    </item>
-    <item>
-      <title>【ゆっくり紹介】SCP-3369-JP【あの部屋って誰も住んでないはずだよね……】</title>
-      <link>https://www.nicovideo.jp/watch/sm46931523</link>
-      <guid isPermaLink="false">sm46931523</guid>
-      <description><img src="https://img.cdn.nimg.jp/s/nicovideo/thumbnails/46931523/46931523.43922379.original/r640x360l?key=2b203c40008287d652d2629271d3d611409748cf0c61818e4ff592e4411cd802"/><br/>投稿者: ななしぃ<br/>再生時間: 5:48</description>
-      <author>ななしぃ</author>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
